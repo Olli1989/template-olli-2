@@ -1,0 +1,2 @@
+3thd Party Plugins like axios etc. - only change version here not many locations
+  Facade Pattern - Update axios in one place not in all places you used it in your application (https://www.youtube.com/watch?v=fHPa5xzbpaA)

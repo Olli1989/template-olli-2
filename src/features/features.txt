@@ -1,0 +1,17 @@
+all components for a single feature in (mini version of your source folders)
+  folders: 
+    authentication
+      components
+      hooks
+      services
+      assests
+      files:
+        every folder has a index.js you only export things from their not from the other folders inside (encapsulate the logic)
+    projects
+      etc.
+    settings
+      etc.
+    todos
+      etc.
+  
+    
